@@ -28,4 +28,9 @@ different qualities and cannot be reversed.
 
 For example, LEDs have polarity but Resistors do not.
 
+## Breadboards
 
+Breadboards make prototyping simple.  No need to solder anything together and
+you can easily swap things out.  The board is divided into four sections - 2
+external sections and 2 internal.  The external sections are connected
+vertically and the interal are connected horizontally.
