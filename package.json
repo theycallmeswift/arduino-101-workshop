@@ -1,0 +1,20 @@
+{
+  "name": "arduino-101",
+  "version": "0.0.0",
+  "description": "My Arduino 101 workshop materials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "Arduino",
+    "SendGrid",
+    "101"
+  ],
+  "author": "Swift <swift@sendgrid.com>",
+  "license": "Beerware",
+  "dependencies": {
+    "johnny-five": "~0.5.14"
+  }
+}
