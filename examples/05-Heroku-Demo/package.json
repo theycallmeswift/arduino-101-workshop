@@ -1,0 +1,26 @@
+{
+  "name": "05-Heroku-Demo",
+  "version": "0.0.0",
+  "description": "A SendGrid, Arduino, Heroku Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "SendGrid",
+    "Arduino",
+    "Heroku"
+  ],
+  "author": "Swift <swift@sendgrid.com>",
+  "license": "Beerware",
+  "dependencies": {
+    "sendgrid": "~0.2.5",
+    "express": "~3.1.0",
+    "request": "~2.14.0"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
